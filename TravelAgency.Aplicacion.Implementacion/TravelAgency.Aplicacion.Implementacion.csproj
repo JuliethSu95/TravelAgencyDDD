@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{957CAD8A-32ED-4840-B899-AB485A24FBCD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TravelAgency.Aplicacion.Implementacion</RootNamespace>
+    <AssemblyName>TravelAgency.Aplicacion.Implementacion</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=7.0.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.7.0.1\lib\net45\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\AgenteHotelesServicios.cs" />
+    <Compile Include="Clases\AgenteServicio.cs" />
+    <Compile Include="Clases\EstadoServicio.cs" />
+    <Compile Include="Clases\HabitacionImpuestosServicio.cs" />
+    <Compile Include="Clases\HabitacionServicio.cs" />
+    <Compile Include="Clases\HotelesServicio.cs" />
+    <Compile Include="Clases\ImpuestosServicio.cs" />
+    <Compile Include="Clases\TipoDocumentoServicios.cs" />
+    <Compile Include="Clases\TipoHabitacionServicio.cs" />
+    <Compile Include="Clases\UbicacionHabitacionServicio.cs" />
+    <Compile Include="init\ModuleInit.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TravelAgency.Aplicacion.Contratos\TravelAgency.Aplicacion.Contratos.csproj">
+      <Project>{f4ff1b22-611f-482d-bfe3-96d078bbc644}</Project>
+      <Name>TravelAgency.Aplicacion.Contratos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TravelAgency.Aplicacion.Core\TravelAgency.Aplicacion.Core.csproj">
+      <Project>{2ee082f4-3b60-4bb0-8ffe-3b175b233da6}</Project>
+      <Name>TravelAgency.Aplicacion.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TravelAgency.Datos.Persistencia.Core\TravelAgency.Datos.Persistencia.Core.csproj">
+      <Project>{513a92bb-4d95-41f2-889e-5dd44ebf712b}</Project>
+      <Name>TravelAgency.Datos.Persistencia.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TravelAgency.Datos.Persistencia.Implementacion\TravelAgency.Datos.Persistencia.Implementacion.csproj">
+      <Project>{BDCD1CE4-06AB-4BB0-B147-D7D588B61D43}</Project>
+      <Name>TravelAgency.Datos.Persistencia.Implementacion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TravelAgency.Datos.Persistencia.Repositorios\TravelAgency.Datos.Persistencia.Repositorios.csproj">
+      <Project>{FDF010C3-8DDF-4142-8681-C24A52BACAE6}</Project>
+      <Name>TravelAgency.Datos.Persistencia.Repositorios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TravelAgency.Dominio.Contratos\TravelAgency.Dominio.Contratos.csproj">
+      <Project>{6f36b016-98d1-4636-81d3-b4befc7e290e}</Project>
+      <Name>TravelAgency.Dominio.Contratos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TravelAgency.Dominio.Core\TravelAgency.Dominio.Core.csproj">
+      <Project>{b694084a-be1e-48bc-a372-ac8292a7062d}</Project>
+      <Name>TravelAgency.Dominio.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilitarios.IoC\Utilitarios.IoC.csproj">
+      <Project>{fb474ceb-32d3-4bfc-b754-626850dcec64}</Project>
+      <Name>Utilitarios.IoC</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

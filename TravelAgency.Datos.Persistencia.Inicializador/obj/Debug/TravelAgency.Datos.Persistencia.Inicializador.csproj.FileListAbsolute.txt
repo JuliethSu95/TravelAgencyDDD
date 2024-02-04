@@ -1,0 +1,12 @@
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Inicializador\bin\Debug\TravelAgency.Datos.Persistencia.Inicializador.dll.config
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Inicializador\bin\Debug\TravelAgency.Datos.Persistencia.Inicializador.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Inicializador\bin\Debug\TravelAgency.Datos.Persistencia.Inicializador.pdb
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Inicializador\bin\Debug\EntityFramework.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Inicializador\bin\Debug\EntityFramework.SqlServer.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Inicializador\bin\Debug\EntityFramework.xml
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Inicializador\bin\Debug\EntityFramework.SqlServer.xml
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Inicializador\obj\Debug\TravelAgency.Datos.Persistencia.Inicializador.csproj.AssemblyReference.cache
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Inicializador\obj\Debug\TravelAgency.Datos.Persistencia.Inicializador.csproj.CoreCompileInputs.cache
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Inicializador\obj\Debug\TravelAgency.Datos.Persistencia.Inicializador.csproj.CopyComplete
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Inicializador\obj\Debug\TravelAgency.Datos.Persistencia.Inicializador.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Inicializador\obj\Debug\TravelAgency.Datos.Persistencia.Inicializador.pdb

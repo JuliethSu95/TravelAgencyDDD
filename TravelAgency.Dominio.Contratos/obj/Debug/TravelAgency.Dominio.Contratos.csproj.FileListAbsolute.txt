@@ -1,0 +1,9 @@
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Contratos\bin\Debug\TravelAgency.Dominio.Contratos.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Contratos\bin\Debug\TravelAgency.Dominio.Contratos.pdb
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Contratos\bin\Debug\TravelAgency.Dominio.Core.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Contratos\bin\Debug\TravelAgency.Dominio.Core.pdb
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Contratos\obj\Debug\TravelAgency.Dominio.Contratos.csproj.AssemblyReference.cache
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Contratos\obj\Debug\TravelAgency.Dominio.Contratos.csproj.CoreCompileInputs.cache
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Contratos\obj\Debug\TravelAgency.Dominio.Contratos.csproj.CopyComplete
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Contratos\obj\Debug\TravelAgency.Dominio.Contratos.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Contratos\obj\Debug\TravelAgency.Dominio.Contratos.pdb

@@ -1,0 +1,14 @@
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\bin\Debug\TravelAgency.Aplicacion.Core.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\bin\Debug\TravelAgency.Aplicacion.Core.pdb
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\bin\Debug\AutoMapper.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\bin\Debug\System.ValueTuple.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\bin\Debug\TravelAgency.Dominio.Core.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\bin\Debug\TravelAgency.Dominio.Core.pdb
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\bin\Debug\AutoMapper.pdb
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\bin\Debug\AutoMapper.xml
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\bin\Debug\System.ValueTuple.xml
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\obj\Debug\TravelAgency.Aplicacion.Core.csproj.AssemblyReference.cache
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\obj\Debug\TravelAgency.Aplicacion.Core.csproj.CoreCompileInputs.cache
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\obj\Debug\TravelAgency.Aplicacion.Core.csproj.CopyComplete
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\obj\Debug\TravelAgency.Aplicacion.Core.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Core\obj\Debug\TravelAgency.Aplicacion.Core.pdb

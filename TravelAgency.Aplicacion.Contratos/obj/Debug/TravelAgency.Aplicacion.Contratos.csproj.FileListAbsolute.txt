@@ -1,0 +1,17 @@
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\bin\Debug\TravelAgency.Aplicacion.Contratos.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\bin\Debug\TravelAgency.Aplicacion.Contratos.pdb
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\bin\Debug\AutoMapper.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\bin\Debug\System.ComponentModel.Annotations.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\bin\Debug\System.ValueTuple.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\bin\Debug\TravelAgency.Aplicacion.Core.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\bin\Debug\TravelAgency.Dominio.Core.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\bin\Debug\TravelAgency.Aplicacion.Core.pdb
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\bin\Debug\TravelAgency.Dominio.Core.pdb
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\bin\Debug\AutoMapper.pdb
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\bin\Debug\AutoMapper.xml
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\bin\Debug\System.ValueTuple.xml
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\obj\Debug\TravelAgency.Aplicacion.Contratos.csproj.AssemblyReference.cache
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\obj\Debug\TravelAgency.Aplicacion.Contratos.csproj.CoreCompileInputs.cache
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\obj\Debug\TravelAgency.Aplicacion.Contratos.csproj.CopyComplete
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\obj\Debug\TravelAgency.Aplicacion.Contratos.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Aplicacion.Contratos\obj\Debug\TravelAgency.Aplicacion.Contratos.pdb

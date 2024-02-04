@@ -1,0 +1,14 @@
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\obj\Debug\TravelAgency.Datos.Persistencia.Core.csproj.AssemblyReference.cache
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\obj\Debug\TravelAgency.Datos.Persistencia.Core.csproj.CoreCompileInputs.cache
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\bin\Debug\TravelAgency.Datos.Persistencia.Core.dll.config
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\bin\Debug\TravelAgency.Datos.Persistencia.Core.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\bin\Debug\TravelAgency.Datos.Persistencia.Core.pdb
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\bin\Debug\EntityFramework.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\bin\Debug\TravelAgency.Dominio.Core.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\bin\Debug\TravelAgency.Dominio.Core.pdb
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\bin\Debug\EntityFramework.xml
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\obj\Debug\TravelAgency.Datos.Persistencia.Core.csproj.CopyComplete
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\obj\Debug\TravelAgency.Datos.Persistencia.Core.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Datos.Persistencia.Core\obj\Debug\TravelAgency.Datos.Persistencia.Core.pdb

@@ -1,0 +1,6 @@
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Core\bin\Debug\TravelAgency.Dominio.Core.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Core\bin\Debug\TravelAgency.Dominio.Core.pdb
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Core\obj\Debug\TravelAgency.Dominio.Core.csproj.AssemblyReference.cache
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Core\obj\Debug\TravelAgency.Dominio.Core.csproj.CoreCompileInputs.cache
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Core\obj\Debug\TravelAgency.Dominio.Core.dll
+D:\SMART\TravelAgencyDDD\TravelAgency.Dominio.Core\obj\Debug\TravelAgency.Dominio.Core.pdb
